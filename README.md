@@ -42,10 +42,15 @@ To train your own emotion detection model, Refer to the notebook /facial_emotion
 
 ### For Emotion Detection  using Webcam 
 #### Clone the repo:
+
 run Python 3.9.13
+
 py -3.9 -m venv venv  
+
 .\venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python Emotion_Detection.py
 
 
